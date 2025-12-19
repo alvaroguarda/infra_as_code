@@ -3,7 +3,7 @@
 
 Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões
 
-### No script iac.sh 
+### O script iac.sh executa os seguintes procedimentos:
 
 Os diretórios, arquivos, grupos e usuários criados anteriormente são excluidos
 
