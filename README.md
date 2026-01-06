@@ -8,8 +8,8 @@ O objetivo aqui é implementar a seguinte infraestrutura:
 Isto é feito com o script **iac.sh**
 
 __Dicas__: 
-* Para trocar o usuário atual pelo usuário root
-* Para executar o script altere a permissão do arquivo para executá-lo (**chmod +x iac.sh**)
+* Troque o usuário atual pelo usuário root: **sudo su**
+* Para executar o script altere a permissão do arquivo para executá-lo: **chmod +x iac.sh**
 
 ### O script iac.sh executa os seguintes procedimentos:
 
