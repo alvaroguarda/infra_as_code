@@ -9,7 +9,9 @@ Isto é feito com o script **iac.sh**
 
 __Dicas__: 
 * Troque o usuário atual pelo usuário root: **sudo su**
-* Para executar o script altere a permissão do arquivo para executá-lo: **chmod +x iac.sh**
+* Altere a permissão do script: **chmod +x iac.sh**
+* Execute o script: **./iac.sh**
+* Para acessar a aplicação no navegador, digite o endereço ip do servidor
 
 ### O script iac.sh executa os seguintes procedimentos:
 
